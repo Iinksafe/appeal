@@ -13,4 +13,4 @@ To appeal, you must meet the following requirements:
 **MAKE SURE YOU'VE READ ALL THE REQUIREMENTS ABOVE. FAILING TO ANY REQUIREMENT MAY DECLINE YOUR APPEAL**.
 
 <title>Appeal Requirements</title>
-<script>alert('Hello there! Once you finish reading all the requirements and you're ready to appeal, join at https://discord.gg/YYQ9jxQpwm.')</script>
+<script>alert("Hello there! Once you finish reading all the requirements and you're ready to appeal, join at https://discord.gg/YYQ9jxQpwm.")</script>
